@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Multiple Windows Opener</title>
+<script>
+function openMultipleWindows() {
+    // Open multiple windows
+    window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+    window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+    // You can add more window.open() calls for additional windows
+}
+</script>
+</head>
+<body>
+
+<!-- Button to trigger opening multiple windows -->
+<button onclick="openMultipleWindows()">Open Multiple Windows</button>
+
+</body>
+</html>
