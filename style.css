@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: Green;
     font-family: impact;
     height: 200;
 
@@ -13,7 +13,8 @@ h1 {
 button {
 background-color: green; 
     color: Black; 
-    font-size: 20px; 
-    height: 100px;
-    width: 200px;
+    font-family: Bold;
+    font-size: 30px; 
+    height: 90px;
+    width: 190px;
 }
