@@ -28,6 +28,7 @@ button {
 /* Button hover effect */
 button:hover {
   background-color: #45a049; /* Darker green on hover */
+  cursor: pointer;
 }
 
 
