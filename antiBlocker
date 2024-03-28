@@ -66,13 +66,13 @@ function myFunction() {
   window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
   window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
   window.open('https://sites.google.com/view/justgotcrashed/home', '_blank');
-    // You can add more window.open() calls for additional windows
+   
 }
 </script>
 </head>
 <body>
 
-<!-- Button to trigger opening multiple windows -->
+
 <button onclick="myFunction()">Verify to enter</button>
 
 </body>
