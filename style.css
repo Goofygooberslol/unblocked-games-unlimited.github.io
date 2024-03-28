@@ -1,9 +1,5 @@
 body {
-background-image: 
-    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
-  -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;  
-  animation: rainbow-animation 35s linear infinite;
+background-color: red;
   font-family: Arial, sans-serif;
   margin: 0; 
   padding: 20px; 
@@ -33,6 +29,23 @@ button {
 button:hover {
   background-color: #45a049; 
   cursor: pointer;
+}
+
+
+.text-rainbow-animation {
+  font-family:arial black;
+  font-size:70px;
+  background-image: 
+    linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet, red); 
+  -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+  animation: rainbow-animation 35s linear infinite;
+}
+
+@keyframes rainbow-animation {
+    to {
+        background-position: 4500vh;
+    }
 }
 
 
