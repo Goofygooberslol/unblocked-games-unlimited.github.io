@@ -1,6 +1,7 @@
 body {
-background-color: red;
+background-color: black;
   font-family: Arial, sans-serif;
+  color: white;
   margin: 0; 
   padding: 20px; 
 }
@@ -8,9 +9,10 @@ background-color: red;
 
 h1 {
   color: #006600; 
-  font-family: Impact, sans-serif;
+  font-family: impact;
   font-size: 36px; 
   margin-top: 0; 
+  color: white;
 }
 
 /* Button styles */
